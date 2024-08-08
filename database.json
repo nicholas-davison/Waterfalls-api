@@ -1,0 +1,326 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Wally Johnny Waters",
+      "address": "100 River St, Chattanooga, TN 37402",
+      "email": "wallyJ@pineyriver.org"
+    },
+    {
+      "id": 2,
+      "name": "Jennifer Annie Jackson",
+      "address": "123 Broadway, Nashville, TN 37201",
+      "email": "jennay@gmail.com"
+    },
+    {
+      "email": "nick@nick.com",
+      "name": "Nick Davison",
+      "address": "200 Graylynn Dr, Nashville TN 37214",
+      "cohort": null,
+      "id": 3
+    },
+    {
+      "email": "kevin@harper.com",
+      "name": "Kevin Harper",
+      "address": "146 Tallwood Dr Nashville, TN 37211",
+      "id": 4
+    }
+  ],
+  "waterfalls": [
+    {
+      "id": 1,
+      "name": "Conasauga Falls",
+      "userId": 1,
+      "locationId": 1,
+      "difficultyLevelId": 2,
+      "description": "A 1.5-mile out-and-back hike on Conasauga Falls Trail #170 in Cherokee National Forest will bring you to a beautiful three-tiered waterfall—a relatively short hike for a breathtaking reward. Expect about 400 feet in elevation gain during your trek. There is a circular parking area for the trail at the end of a dirt road.",
+      "imageUrl": [
+        "https://www.onlyinyourstate.com/wp-content/uploads/2021/02/Teresa-Kazmier-AllTrails.jpg",
+        "https://www.southernliving.com/thmb/HQfwHaqctNQVGfQGVxepMvu9FjA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ConasaugaFalls_PhotoCredit_VictoriaStamey_VSOutdoorSnaps-ced3d731e5054796b2878ddc9ee7057a.jpg",
+        "https://www.gawaterfalls.com/uploads/2/4/2/9/24290352/dsc-6854_2_orig.jpg"
+      ]
+    },
+    {
+      "name": "Ozone Falls",
+      "userId": 2,
+      "locationId": 10,
+      "difficultyLevelId": 1,
+      "description": "Ozone Falls plunges 110 feet over a sandstone cap rock into a deep, rock-strewn pool inside Ozone Falls State Natural Area. The falls then disappear underground, re-emerging several yards downstream. An impressive rock house “amphitheater” provides the backdrop for the falls. Because of its picturesque beauty and easy access, Ozone Falls was selected for filming scenes for the movie “Jungle Book.” ",
+      "imageUrl": [
+        "https://tnstateparks.com/assets/images/content-images/blog/6475/screen_shot_2023-03-17_at_9.38.36_am.png",
+        "https://www.stavislost.com/images/photos/2018/5b479ca3b952d.jpg"
+      ],
+      "id": 6
+    },
+    {
+      "name": "Northrup Falls",
+      "userId": 1,
+      "locationId": 13,
+      "difficultyLevelId": 2,
+      "description": "Northrup Falls is THE defining feature of Colditz Cove, a 165-acre natural area in Fentress County. It plunges more than 60 feet over a rock shelf into a narrow gorge on Big Branch Creek. Hikers can access it via a roughly 1.5-mile loop trail. It’s named after the family who settled in the area and operated a mill above the falls in the 1800s.",
+      "imageUrl": [
+        "https://www.ihoneida.com/wp-content/uploads/2021/03/Northrup-Falls-scaled.jpg",
+        "https://www.tn.gov/content/tn/environment/program-areas/na-natural-areas/natural-areas-east-region/east-region-/na-na-colditz-cove/jcr%3Acontent/content/tn_image.img.jpg/1644860555712.jpg",
+        "https://images.squarespace-cdn.com/content/v1/58d3341429687f49a5b7d36d/1499660326249-8DLW0R9CZ298CS9XH2E0/NorthrupFallsWaterfallDetail"
+      ],
+      "id": 9
+    },
+    {
+      "name": "Fall Creek Falls",
+      "userId": 1,
+      "locationId": 11,
+      "difficultyLevelId": 1,
+      "description": "Fall Creek Falls, at 256 feet, is one of the highest waterfalls in the eastern United States. It is easily accessible so old folks and young folks will love it.",
+      "imageUrl": [
+        "https://campspot.blog/wp-content/uploads/2023/08/Camping-near-Fall-Creek-Falls-State-Park.jpg",
+        "https://cumberlandriverbasin.org/wp-content/uploads/2021/02/Fall-Creek-Falls-Chuck-Sutherland.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fall_Creek_Falls.jpg/1200px-Fall_Creek_Falls.jpg"
+      ],
+      "id": 10
+    },
+    {
+      "name": "Greeter Falls",
+      "userId": 1,
+      "locationId": 15,
+      "difficultyLevelId": 3,
+      "description": "You’ll find Greeter Falls about 45 minutes northwest of Chattanooga in Savage Gulf State Park—Tennessee's newest state park as of late September 2022, bringing the state's total number of state parks to 57. About one mile round trip, this out-and-back hike will take you through hardwood forests and aside sandstone cliffs. You’ll get to view both the upper and lower falls.",
+      "imageUrl": [
+        "https://live.staticflickr.com/1887/43625147245_93116c27f7_b.jpg",
+        "https://i0.wp.com/huntsvilleadventurer.com/wp-content/uploads/2020/06/IMG_20200613_113326.jpg?fit=1400%2C1050&ssl=1"
+      ],
+      "id": 11
+    },
+    {
+      "name": "Burgess Falls",
+      "userId": 1,
+      "locationId": 16,
+      "difficultyLevelId": 3,
+      "description": "Burgess Falls is located in a 217-acre natural area southwest of Cookeville. The park has stunning bluffs, diverse forests, and three waterfalls formed by Falling Water River. Burgess Falls is the area’s most impressive, plunging more than 130 feet into the gorge at a sharp edge of the riverbed. You can hike the 1.5-mile River Trail loop to view the waterfall. For an even more memorable experience, consider using a guide service like Kayaking Adventures of Tennessee to paddle up to the base of Burgess Falls.",
+      "imageUrl": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/cd/39/bc/photo0jpg.jpg?w=1200&h=-1&s=1",
+        "https://mediaim.expedia.com/destination/1/5c4f2999360c6395608e27cba7ad90cf.jpg",
+        "https://cumberlandriverbasin.org/wp-content/uploads/2021/02/burgess-falls-scaled.jpg"
+      ],
+      "id": 12
+    },
+    {
+      "name": "Spruce Flats Falls",
+      "userId": 1,
+      "locationId": 17,
+      "difficultyLevelId": 2,
+      "description": "Located in [Great Smoky Mountains National Park](https://www.southernliving.com/travel/great-smoky-mountain-national-park), the out-and-back hike to Spruce Flat Falls is 1.8 miles. The trail is short, but has some steep sections with lots of rocks and roots to navigate. While still a popular waterfall hike in the Smokies, Spruce Flat Falls is often quieter than some of the other well-known trailheads in the park, such as Laurel Falls. The trail doesn’t appear on the official park trail map, but hikers will find signage for it near the Great Smoky Mountains Institute at Tremont near the parking area.",
+      "imageUrl": [
+        "https://www.southernliving.com/thmb/rm7gYEIssT461WkKncGSjHuZf_Y=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SpruceFlatFalls_PhotoCredit_AshleeTaylor-9bb59fcbcc4a4b13b93f821e64ceb4d9.jpg",
+        "https://images.squarespace-cdn.com/content/v1/6216ad52452c1a76c3d956b8/1645671891891-NY01AI2QOHEJAZ58R0I7/97D0435B-D258-47D5-9B03-AB5544AE4C4B.JPG",
+        "https://hikingproject.com/assets/photos/hike/7038225_medium_1555087826.jpg?cache=1714174325",
+        "https://peacefulcabinrentals.com/uploads/3/4/5/9/34597966/published/spruce-flat-falls-up-close-small-7670.jpg?1605459165",
+        "https://images.squarespace-cdn.com/content/v1/6414662af9d5287e373484e0/1679068833748-6E3XBIQJC0YMYVRTHMX8/Spruce-Flat-Falls_5x7-Smaller.jpg?format=1000w"
+      ],
+      "id": 13
+    },
+    {
+      "name": "Upper Piney Falls",
+      "userId": 1,
+      "locationId": 19,
+      "difficultyLevelId": 1,
+      "description": "Little Piney Creek drains the majority of the area plunging some 80 feet over the picturesque Upper Piney Falls into the pool below, and then drops another 40 feet over Lower Piney Falls. At Upper Piney Falls, a concave ledge circles behind and around the falls where visitors can follow a trail for an awe-inspiring view of the gorge below. Lower Piney Falls, which is smaller in stature, and not accessible by trail, plunges into a much narrower gorge. From here, the Little Piney Creek continues, and joins with Soak Creek State Scenic River before emptying into the Piney River.",
+      "imageUrl": [
+        "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/upper-piney-falls-mattdaughertyphotocom.jpg",
+        "https://gowaterfalling.com/waterfalls/images/full/tn/vpineyfalls5.jpg",
+        "https://images.unsplash.com/photo-1661300831894-409650fd5cc2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VXBwZXIlMjBQaW5leSUyMEZhbGxzJTJDJTIwVGVubmVzc2VlJTJDJTIwVVNBfGVufDB8fDB8fHww"
+      ],
+      "id": 15
+    },
+    {
+      "name": "Twin Falls",
+      "userId": 1,
+      "locationId": 21,
+      "difficultyLevelId": 1,
+      "description": "Twin Falls is located in Rock Island State Park, an 833-acre nature area on the headwaters of Center Hill Lake at the confluence of the Caney Fork, Collins, and Rocky Rivers. The waterfalls pour out of the walls of the gorge rather than over the top, and formed when the Caney Fork River was dammed. Twin Falls is relatively accessible, requiring a short walk down some steep stairs from the parking area. Note that the area is subject to sudden rises in water if the floodgates at Great Falls Dam are opened. Listen for warning sirens from the dam and do not swim or wade in the area.",
+      "imageUrl": [
+        "https://i.redd.it/lcuye71htjvb1.jpg",
+        "https://tnstateparks.com/assets/images/content-images/blog/6475/rock_island.jpg"
+      ],
+      "id": 16
+    },
+    {
+      "name": "Machine Falls",
+      "userId": 1,
+      "locationId": 12,
+      "difficultyLevelId": 1,
+      "description": "a great hike!",
+      "imageUrl": [
+        "https://i0.wp.com/waterfallshiker.com/wp-content/uploads/2015/02/img_6829.jpg?ssl=1"
+      ],
+      "id": 17
+    }
+  ],
+  "userWaterfalls": [
+    {
+      "userId": 1,
+      "waterfallId": 12,
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "waterfallId": 6,
+      "id": 16
+    },
+    {
+      "userId": 2,
+      "waterfallId": 10,
+      "id": 17
+    },
+    {
+      "userId": 2,
+      "waterfallId": 9,
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "waterfallId": 11,
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "waterfallId": 9,
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "waterfallId": 16,
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "waterfallId": 1,
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "waterfallId": 6,
+      "id": 24
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Cherokee National Forest",
+      "regionId": 3,
+      "lat": 35.2836,
+      "lng": -84.2754
+    },
+    {
+      "id": 2,
+      "name": "Cummmins Falls State Park",
+      "regionId": 2,
+      "lat": 36.0043,
+      "lng": -85.6834
+    },
+    {
+      "id": 10,
+      "name": "Ozone Falls State Natural Area",
+      "regionId": 2,
+      "lat": 36.104,
+      "lng": -84.9219
+    },
+    {
+      "name": "Fall Creek Falls State Park",
+      "regionId": 2,
+      "lat": 35.70691869999999,
+      "lng": -85.3821486,
+      "id": 11
+    },
+    {
+      "name": "Short Springs Natural Area",
+      "regionId": 2,
+      "lat": 35.4074991,
+      "lng": -86.174527,
+      "id": 12
+    },
+    {
+      "name": "Colditz Cove State Natural Area",
+      "regionId": 2,
+      "lat": 36.356852,
+      "lng": -84.871937,
+      "id": 13
+    },
+    {
+      "name": "Spruce flats falls trailhead",
+      "regionId": 3,
+      "lat": 35.6407961,
+      "lng": -83.68912499999999,
+      "id": 14
+    },
+    {
+      "name": "Savage Gulf State Park",
+      "regionId": 2,
+      "lat": 35.434704,
+      "lng": -85.53947459999999,
+      "id": 15
+    },
+    {
+      "name": "Burgess Falls State Park",
+      "regionId": 2,
+      "lat": 36.0449134,
+      "lng": -85.59607849999999,
+      "id": 16
+    },
+    {
+      "name": "Great Smoky Mountains National Park",
+      "regionId": 3,
+      "lat": 35.6130503,
+      "lng": -83.55315370000001,
+      "id": 17
+    },
+    {
+      "name": "Piney Falls State Natural Area",
+      "regionId": 2,
+      "lat": 35.7276749,
+      "lng": -84.85598829999999,
+      "id": 19
+    },
+    {
+      "name": "Foster Falls Recreation Area",
+      "regionId": 2,
+      "lat": 35.1825019,
+      "lng": -85.6715369,
+      "id": 20
+    },
+    {
+      "name": "Rock Island State Park",
+      "regionId": 2,
+      "lat": 35.81042829999999,
+      "lng": -85.641787,
+      "id": 21
+    }
+  ],
+  "regions": [
+    {
+      "id": 1,
+      "regionName": "West"
+    },
+    {
+      "id": 2,
+      "regionName": "Middle"
+    },
+    {
+      "id": 3,
+      "regionName": "East"
+    }
+  ],
+  "difficultyLevels": [
+    {
+      "id": 1,
+      "type": "Easy"
+    },
+    {
+      "id": 2,
+      "type": "Moderate"
+    },
+    {
+      "id": 3,
+      "type": "Difficult"
+    }
+  ]
+}
