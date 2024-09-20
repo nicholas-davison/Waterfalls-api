@@ -12,6 +12,7 @@
     "author": "Nick Davison",
     "license": "ISC",
     "dependencies": {
-        "json-server": "0.17.4"
+        "json-server": "latest"
     }
 }
+
